@@ -1,0 +1,2 @@
+# SumoLogicCollectorMgmt
+SumoLogic Collector Management
