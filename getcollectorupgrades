@@ -1,0 +1,1 @@
+curl -i -u "suhp3moxJuJHti:b5Njc2FcwerLf508xgE4bIO2MooV99Raick4gfzrtU5oViuSYwyAhIcMO1MVfuR3" -X GET https://api.sumologic.com/api/v1/collectors/upgrades/collectors
